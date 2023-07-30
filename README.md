@@ -1,9 +1,13 @@
-
+<img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png"/>
 <h1 align="center">Hi 👋, I'm Sumanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthrillex07&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthrillex07" /> </p>
+ <!-- <div align="left"> -->
+<!--   Profile views -->
+<!--   <img src="https://profile-counter.glitch.me/Sumanthrillex07/count.svg?"  /> -->
+<!-- </div> --> 
 <p >
-  <img height="150" width="200" align="right" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
+  <img align="right" height="250" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif"  />
 </p>
 
 
