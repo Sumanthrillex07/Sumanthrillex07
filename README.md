@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently pursuing **my Btech CSE in NIT Silchar**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **projectss**
+- 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **DSA,C++**
+- 💬 Ask me about **DSA,Web**
 
 - 📫 How to reach me **sumanthrillex07@gmail.com**
 
