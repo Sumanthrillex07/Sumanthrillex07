@@ -1,6 +1,6 @@
 <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png"/>
 <h1 align="center">Hi 👋, I'm Sumanth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthrillex07&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthrillex07" /> </p>
  <!-- <div align="left"> -->
 <!--   Profile views -->
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently pursuing **my Btech CSE in NIT Silchar**
 
-- 🌱 I’m interested in **Full Stack Development**
+- 🌱 I’m interested in **Full Stack Development(MERN)**
 
 - 👯 I’m looking to collaborate on **Projects**
 
